@@ -10,6 +10,9 @@
   "author": " <bharat>",
   "license": "ISC",
   "dependencies": {
+    "acorn": "^6.4.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^0.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
